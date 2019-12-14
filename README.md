@@ -8,7 +8,7 @@ NOTE: Before you begin, make sure that your Google account is registered with Go
 
 ## To Do (Before Running the Code):
 - Download all necessary supporting files
-- I could not figure out how to alter the file paths to a web-based environment, so all necessary file paths will need to be readjusted to YOUR Computer.
+- I could not figure out how to alter the file paths to a web-based environment, so all necessary file paths will need to be readjusted to YOUR Computer
 - Run "Neighborhood Analysis.ipynb" & "Landsat Imagery Analysis.ipynb" in a Jupyter Notebook
 
 ### Extra: 
