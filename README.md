@@ -1,5 +1,5 @@
 # Earth_361_Final_Project
-Is Chicago Going Green? - An Assessment of Green Roof Development in Chicago Over Time
+Is Chicago Going Green? - An Assessment of Green Roof Development in Chicago Over Time (2013-2019)
 
 ## Welcome to my Final Project! 
 
