@@ -10,8 +10,6 @@ NOTE: Before you begin, make sure that your Google account is registered with Go
 - Download all necessary supporting files
 - I could not figure out how to alter the file paths to a web-based environment, so all necessary file paths will need to be readjusted to YOUR Computer.
 
- * You may need to re-run cell 10 in Part II to display the desired time series graph.
-
 ### Extra: 
 Major Bugs Encountered:
 1 - Initially, I started this project in Google Colab, however, the folium library stopped working properly for an unknown reason and would not display tiles with such large amounts of data, so I switched to Jupyter Notebooks in order to maintain a web-based environment.
